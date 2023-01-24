@@ -1,6 +1,6 @@
 ### Hi I'm Jasmine,
 
-- Passionate about learning 😊
+Passionate about learning 😊 
 
 <b> </> Languages: </b> <br/>
 ``` 
